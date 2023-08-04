@@ -11,6 +11,7 @@
 		F83748CE2A7D3A3300D1CD8E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F83748CD2A7D3A3300D1CD8E /* ContentView.swift */; };
 		F83748D02A7D3A3500D1CD8E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F83748CF2A7D3A3500D1CD8E /* Assets.xcassets */; };
 		F83748D32A7D3A3500D1CD8E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F83748D22A7D3A3500D1CD8E /* Preview Assets.xcassets */; };
+		F83748DA2A7D3A7200D1CD8E /* CircleBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = F83748D92A7D3A7200D1CD8E /* CircleBackground.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		F83748CD2A7D3A3300D1CD8E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F83748CF2A7D3A3500D1CD8E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F83748D22A7D3A3500D1CD8E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F83748D92A7D3A7200D1CD8E /* CircleBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleBackground.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				F83748CB2A7D3A3300D1CD8E /* Poke_showcaseApp.swift */,
 				F83748CD2A7D3A3300D1CD8E /* ContentView.swift */,
+				F83748D92A7D3A7200D1CD8E /* CircleBackground.swift */,
 				F83748CF2A7D3A3500D1CD8E /* Assets.xcassets */,
 				F83748D12A7D3A3500D1CD8E /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F83748DA2A7D3A7200D1CD8E /* CircleBackground.swift in Sources */,
 				F83748CE2A7D3A3300D1CD8E /* ContentView.swift in Sources */,
 				F83748CC2A7D3A3300D1CD8E /* Poke_showcaseApp.swift in Sources */,
 			);
